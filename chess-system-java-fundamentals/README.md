@@ -1,4 +1,4 @@
-# chess-system-java
+# Chess System in Java
 
 Chess system developed while watching Professor Nelio Alves' course: [Java COMPLETO 2023 Programação Orientada a Objetos +Projetos](https://www.udemy.com/course/java-curso-completo/).
 
