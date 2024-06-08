@@ -1,3 +1,3 @@
-## Learning JPA with Maven
+## Learning JPA / Hibernate with Maven
 
-With SprintToolSuite4 and MySQL
+With SprintToolSuite4, MySQL and Hibernate
